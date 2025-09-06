@@ -35,7 +35,6 @@
 #include "dwarf2/frame.h"
 #include "osabi.h"
 #include "target-descriptions.h"
-#include "opcodes/tricore-dis.h"
 #include "tricore-tdep.h"
 #include "remote.h"
 #include "elf-bfd.h"
